@@ -1,0 +1,11 @@
+S A B C F
+F
++ - d . @
+S A +
+S A -
+S A @
+A B d
+B B d
+B C .
+C C d
+C F @
